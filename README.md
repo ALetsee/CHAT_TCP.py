@@ -111,4 +111,6 @@ Este documento explica cómo configurar y ejecutar un servidor en Python utiliza
 - `recibir_mensajes()`: Hilo que se encarga de recibir y mostrar mensajes del servidor.
 - `start_client()`: Función principal que inicia el cliente, se conecta al servidor y lanza el hilo de recepción de mensajes.
 
+Resultado:
+https://github.com/user-attachments/assets/d65cfcee-c63e-4074-a1f1-c749e5d51c51
 
