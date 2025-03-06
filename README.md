@@ -112,5 +112,11 @@ Este documento explica cómo configurar y ejecutar un servidor en Python utiliza
 - `start_client()`: Función principal que inicia el cliente, se conecta al servidor y lanza el hilo de recepción de mensajes.
 
 Resultado:
-https://github.com/user-attachments/assets/d65cfcee-c63e-4074-a1f1-c749e5d51c51
+
+<video width="320" height="240" controls>
+  <source src="./Video/2025-03-06%2010-54-34.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
+
+
 
