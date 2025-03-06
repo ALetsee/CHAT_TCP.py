@@ -113,10 +113,7 @@ Este documento explica cómo configurar y ejecutar un servidor en Python utiliza
 
 Resultado:
 
-<video width="320" height="240" controls>
-  <source src="./Video/2025-03-06%2010-54-34.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
 
+https://github.com/user-attachments/assets/aa1b9baa-2e31-4962-880c-b971c7a141bd
 
 
