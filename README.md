@@ -1,3 +1,17 @@
+# Clonar el repositorio
+
+Para clonar el repositorio de `CHAT_TCP.py`, abre una terminal y ejecuta el siguiente comando:
+
+  ```
+- git clone https://github.com/ALetsee/CHAT_TCP.py
+- cd TCP
+- python3 o python servidor-tcp.py primero
+- python3 o python cliente-tcp.py segundo
+
+  ```
+
+
+
 # Configuración y Ejecución del Servidor en Python
 
 ## Introducción
